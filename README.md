@@ -22,7 +22,7 @@ Meus repositórios refletem tanto projetos reais quanto estudos práticos onde a
 ## 💼 Projetos em Destaque
 
 ### 🔄 Event-Driven Microservice with Kafka
-Projeto de estudo prático de arquitetura orientada a eventos usando Spring Boot + Apache Kafka.  
+Projeto de estudo prático de arquitetura orientada a eventos EDA (Event-Driven Architecture) usando Spring Boot + Apache Kafka.  
 Inclui microsserviços de produtos e notificação por e-mail, com comunicação assíncrona.
 
 ➡️ [Repositório](https://github.com/alexandrel5/event_driven_microservice_kafka)
