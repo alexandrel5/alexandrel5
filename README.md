@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Alexandre Candido
 
-Desenvolvedor de software com **10+ anos de experiência** construindo soluções **backend em Java (8 e 17)** e interfaces mobile/web com **Flutter**. Tenho sólida vivência com **Docker** para geração de imagens, **Linux**, **Kafka** (como log de dispositivos), integração de APIs, bibliotecas de impressão Epson e ambientes em **AWS**.
+Desenvolvedor de software com **10+ anos de experiência** construindo soluções **backend em Java (8 e 17)** e interfaces mobile/web com **Flutter**. Tenho sólida vivência com **Docker** (gerenciamento de containers), **Linux**, **Kafka** (como log de dispositivos), integração de APIs, bibliotecas de impressão Epson e ambientes em **AWS**.
 
 Desenvolvi e mantive sistemas que processam milhares de transações diárias para grandes empresas e órgãos públicos. Atualmente estou aprofundando em **DevOps, Cloud (AWS)** e Engenharia de Plataforma, com foco em automação, containers, microsserviços e infraestrutura como código.
 
